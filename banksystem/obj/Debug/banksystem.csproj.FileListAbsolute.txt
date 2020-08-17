@@ -1,0 +1,24 @@
+C:\Users\User\Documents\Visual Studio 2012\Projects\banksystem\banksystem\bin\Debug\banksystem.exe.config
+C:\Users\User\Documents\Visual Studio 2012\Projects\banksystem\banksystem\bin\Debug\banksystem.exe
+C:\Users\User\Documents\Visual Studio 2012\Projects\banksystem\banksystem\bin\Debug\banksystem.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\banksystem\banksystem\obj\Debug\banksystem.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2012\Projects\banksystem\banksystem\obj\Debug\banksystem.Form1.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\banksystem\banksystem\obj\Debug\banksystem.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\banksystem\banksystem\obj\Debug\banksystem.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2012\Projects\banksystem\banksystem\obj\Debug\banksystem.exe
+C:\Users\User\Documents\Visual Studio 2012\Projects\banksystem\banksystem\obj\Debug\banksystem.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\banksystem\banksystem\obj\Debug\banksystem.progbar.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\banksystem\banksystem\obj\Debug\banksystem.Main.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\banksystem\banksystem\obj\Debug\banksystem.AccountCreation.resources
+F:\banksystem\banksystem\banksystem\bin\Debug\banksystem.exe.config
+F:\banksystem\banksystem\banksystem\obj\Debug\banksystem.exe
+F:\banksystem\banksystem\banksystem\obj\Debug\banksystem.pdb
+F:\banksystem\banksystem\banksystem\bin\Debug\banksystem.exe
+F:\banksystem\banksystem\banksystem\bin\Debug\banksystem.pdb
+F:\banksystem\banksystem\banksystem\obj\Debug\banksystem.csprojResolveAssemblyReference.cache
+F:\banksystem\banksystem\banksystem\obj\Debug\banksystem.AccountCreation.resources
+F:\banksystem\banksystem\banksystem\obj\Debug\banksystem.Form1.resources
+F:\banksystem\banksystem\banksystem\obj\Debug\banksystem.Main.resources
+F:\banksystem\banksystem\banksystem\obj\Debug\banksystem.progbar.resources
+F:\banksystem\banksystem\banksystem\obj\Debug\banksystem.Properties.Resources.resources
+F:\banksystem\banksystem\banksystem\obj\Debug\banksystem.csproj.GenerateResource.Cache
